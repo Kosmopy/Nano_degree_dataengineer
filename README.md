@@ -1,6 +1,5 @@
-# Nano_degree_dataengineer
-Projects Udacity nano degree Data Engineering for AI
+# Udacity Project: Data Modeling with Apache Cassandra
 
-Summary: This repository contains several Data Engineering Projects conducted
-for the Udacity Nano Degree "Data Engineering for AI Applications" to strengthen
-skills in Data Modeling, Data Pipelines, Data Warehouses and Data Lakes.
+Summary: In this project, I model data from a fictious company called Sparkify by creating tables in Apache Cassandra.
+I build an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file
+to model and insert data into Apache Cassandra tables.
